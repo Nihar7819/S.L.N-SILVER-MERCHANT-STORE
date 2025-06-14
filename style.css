@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  background: #fff;
+  text-align: center;
+  margin: 0;
+}
+header {
+  background: #444;
+  color: #fff;
+  padding: 20px;
+}
+.gallery img {
+  width: 200px;
+  margin: 10px;
+}
+footer {
+  background: #eee;
+  padding: 10px;
+}
